@@ -27,7 +27,7 @@ pip install -r requirements.txt
 To start the game, run the following command in your terminal:
 
 ```
-python src/tetris.py
+python3 src/tetris.py
 ```
 
 ## Controls
